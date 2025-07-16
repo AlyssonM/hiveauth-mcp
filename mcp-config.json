@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "hiveauth": {
+      "command": "node",
+      "args": ["./dist/index.js"],
+      "env": {
+        "HIVEAUTH_API_BASE_URL": "http://localhost:3000"
+      }
+    }
+  }
+}
