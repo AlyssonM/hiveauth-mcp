@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that provides tools for verifiable credential operations using the HiveAuth ecosystem. This server exposes HiveAuth's credential management capabilities to LLM applications via the standardized MCP interface.
 
+<a href="https://glama.ai/mcp/servers/@AlyssonM/hiveauth-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@AlyssonM/hiveauth-mcp/badge" alt="HiveAuth Server MCP server" />
+</a>
+
 ## Overview
 
 The HiveAuth MCP Server provides these tools to LLM applications:
